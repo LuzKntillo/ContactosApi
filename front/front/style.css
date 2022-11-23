@@ -1,0 +1,15 @@
+.contactos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.contacto{
+    width: 200px;
+    padding: 20px;
+    border: 2px solid rgb(19, 207, 22);
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    margin: 20px;
+}
